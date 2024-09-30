@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+table{
+    background-color: yellow;
+    border: 5px groove rgb(255, 119, 0);
+    width: 100%;
+}
+#heading{
+    background-color: rgb(52, 0, 41);
+    font-size: 60px;
+    text-align: center;
+    color: firebrick;
+}
+#row1{
+    background-color: rgb(108, 66, 99);
+    text-align: center;
+}
+#row2{
+    background-color: rgb(24, 11, 21);
+    text-align: center;
+}
